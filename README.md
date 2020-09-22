@@ -1,0 +1,2 @@
+# LC
+Libre Configuración
